@@ -1,0 +1,96 @@
+G:\Lannister\Documents\Visual Studio 2015\Projects\SportsStore\UnitTests\bin\Debug\roslyn\csc.exe
+G:\Lannister\Documents\Visual Studio 2015\Projects\SportsStore\UnitTests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Lannister\Documents\Visual Studio 2015\Projects\SportsStore\UnitTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Lannister\Documents\Visual Studio 2015\Projects\SportsStore\UnitTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+G:\Lannister\Documents\Visual Studio 2015\Projects\SportsStore\UnitTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Lannister\Documents\Visual Studio 2015\Projects\SportsStore\UnitTests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+G:\Lannister\Documents\Visual Studio 2015\Projects\SportsStore\UnitTests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Lannister\Documents\Visual Studio 2015\Projects\SportsStore\UnitTests\bin\Debug\roslyn\System.Collections.Immutable.dll
+G:\Lannister\Documents\Visual Studio 2015\Projects\SportsStore\UnitTests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+G:\Lannister\Documents\Visual Studio 2015\Projects\SportsStore\UnitTests\bin\Debug\roslyn\vbc.exe
+G:\Lannister\Documents\Visual Studio 2015\Projects\SportsStore\UnitTests\bin\Debug\roslyn\VBCSCompiler.exe
+G:\Lannister\Documents\Visual Studio 2015\Projects\SportsStore\UnitTests\bin\Debug\roslyn\VBCSCompiler.exe.config
+G:\Lannister\Documents\Visual Studio 2015\Projects\SportsStore\UnitTests\bin\Debug\UnitTests.dll.config
+G:\Lannister\Documents\Visual Studio 2015\Projects\SportsStore\UnitTests\bin\Debug\UnitTests.dll
+G:\Lannister\Documents\Visual Studio 2015\Projects\SportsStore\UnitTests\bin\Debug\UnitTests.pdb
+G:\Lannister\Documents\Visual Studio 2015\Projects\SportsStore\UnitTests\bin\Debug\Domain.dll
+G:\Lannister\Documents\Visual Studio 2015\Projects\SportsStore\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\Lannister\Documents\Visual Studio 2015\Projects\SportsStore\UnitTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\Lannister\Documents\Visual Studio 2015\Projects\SportsStore\UnitTests\bin\Debug\Moq.dll
+G:\Lannister\Documents\Visual Studio 2015\Projects\SportsStore\UnitTests\bin\Debug\Ninject.dll
+G:\Lannister\Documents\Visual Studio 2015\Projects\SportsStore\UnitTests\bin\Debug\Ninject.Web.Common.dll
+G:\Lannister\Documents\Visual Studio 2015\Projects\SportsStore\UnitTests\bin\Debug\Ninject.Web.Mvc.dll
+G:\Lannister\Documents\Visual Studio 2015\Projects\SportsStore\UnitTests\bin\Debug\System.Web.Helpers.dll
+G:\Lannister\Documents\Visual Studio 2015\Projects\SportsStore\UnitTests\bin\Debug\System.Web.Mvc.dll
+G:\Lannister\Documents\Visual Studio 2015\Projects\SportsStore\UnitTests\bin\Debug\System.Web.Razor.dll
+G:\Lannister\Documents\Visual Studio 2015\Projects\SportsStore\UnitTests\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\Lannister\Documents\Visual Studio 2015\Projects\SportsStore\UnitTests\bin\Debug\System.Web.WebPages.dll
+G:\Lannister\Documents\Visual Studio 2015\Projects\SportsStore\UnitTests\bin\Debug\System.Web.WebPages.Razor.dll
+G:\Lannister\Documents\Visual Studio 2015\Projects\SportsStore\UnitTests\bin\Debug\WebActivatorEx.dll
+G:\Lannister\Documents\Visual Studio 2015\Projects\SportsStore\UnitTests\bin\Debug\WebUI.dll
+G:\Lannister\Documents\Visual Studio 2015\Projects\SportsStore\UnitTests\bin\Debug\EntityFramework.dll
+G:\Lannister\Documents\Visual Studio 2015\Projects\SportsStore\UnitTests\bin\Debug\Domain.pdb
+G:\Lannister\Documents\Visual Studio 2015\Projects\SportsStore\UnitTests\bin\Debug\WebUI.pdb
+G:\Lannister\Documents\Visual Studio 2015\Projects\SportsStore\UnitTests\bin\Debug\Moq.xml
+G:\Lannister\Documents\Visual Studio 2015\Projects\SportsStore\UnitTests\bin\Debug\Ninject.xml
+G:\Lannister\Documents\Visual Studio 2015\Projects\SportsStore\UnitTests\bin\Debug\Ninject.Web.Common.xml
+G:\Lannister\Documents\Visual Studio 2015\Projects\SportsStore\UnitTests\bin\Debug\Ninject.Web.Mvc.xml
+G:\Lannister\Documents\Visual Studio 2015\Projects\SportsStore\UnitTests\bin\Debug\System.Web.Helpers.xml
+G:\Lannister\Documents\Visual Studio 2015\Projects\SportsStore\UnitTests\bin\Debug\System.Web.Mvc.xml
+G:\Lannister\Documents\Visual Studio 2015\Projects\SportsStore\UnitTests\bin\Debug\System.Web.Razor.xml
+G:\Lannister\Documents\Visual Studio 2015\Projects\SportsStore\UnitTests\bin\Debug\System.Web.WebPages.xml
+G:\Lannister\Documents\Visual Studio 2015\Projects\SportsStore\UnitTests\bin\Debug\System.Web.WebPages.Deployment.xml
+G:\Lannister\Documents\Visual Studio 2015\Projects\SportsStore\UnitTests\bin\Debug\System.Web.WebPages.Razor.xml
+G:\Lannister\Documents\Visual Studio 2015\Projects\SportsStore\UnitTests\bin\Debug\EntityFramework.xml
+G:\Lannister\Documents\Visual Studio 2015\Projects\SportsStore\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+G:\Lannister\Documents\Visual Studio 2015\Projects\SportsStore\UnitTests\obj\Debug\UnitTests.dll
+G:\Lannister\Documents\Visual Studio 2015\Projects\SportsStore\UnitTests\obj\Debug\UnitTests.pdb
+C:\Users\maxth\OneDrive\Programmation\Asp.Net\sportsstore\UnitTests\bin\Debug\roslyn\csc.exe
+C:\Users\maxth\OneDrive\Programmation\Asp.Net\sportsstore\UnitTests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\maxth\OneDrive\Programmation\Asp.Net\sportsstore\UnitTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\maxth\OneDrive\Programmation\Asp.Net\sportsstore\UnitTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\maxth\OneDrive\Programmation\Asp.Net\sportsstore\UnitTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\maxth\OneDrive\Programmation\Asp.Net\sportsstore\UnitTests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\maxth\OneDrive\Programmation\Asp.Net\sportsstore\UnitTests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\maxth\OneDrive\Programmation\Asp.Net\sportsstore\UnitTests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\maxth\OneDrive\Programmation\Asp.Net\sportsstore\UnitTests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\maxth\OneDrive\Programmation\Asp.Net\sportsstore\UnitTests\bin\Debug\roslyn\vbc.exe
+C:\Users\maxth\OneDrive\Programmation\Asp.Net\sportsstore\UnitTests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\maxth\OneDrive\Programmation\Asp.Net\sportsstore\UnitTests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\maxth\OneDrive\Programmation\Asp.Net\sportsstore\UnitTests\bin\Debug\UnitTests.dll.config
+C:\Users\maxth\OneDrive\Programmation\Asp.Net\sportsstore\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\maxth\OneDrive\Programmation\Asp.Net\sportsstore\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\maxth\OneDrive\Programmation\Asp.Net\sportsstore\UnitTests\bin\Debug\Domain.dll
+C:\Users\maxth\OneDrive\Programmation\Asp.Net\sportsstore\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\maxth\OneDrive\Programmation\Asp.Net\sportsstore\UnitTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\maxth\OneDrive\Programmation\Asp.Net\sportsstore\UnitTests\bin\Debug\Moq.dll
+C:\Users\maxth\OneDrive\Programmation\Asp.Net\sportsstore\UnitTests\bin\Debug\Ninject.dll
+C:\Users\maxth\OneDrive\Programmation\Asp.Net\sportsstore\UnitTests\bin\Debug\Ninject.Web.Common.dll
+C:\Users\maxth\OneDrive\Programmation\Asp.Net\sportsstore\UnitTests\bin\Debug\Ninject.Web.Mvc.dll
+C:\Users\maxth\OneDrive\Programmation\Asp.Net\sportsstore\UnitTests\bin\Debug\System.Web.Helpers.dll
+C:\Users\maxth\OneDrive\Programmation\Asp.Net\sportsstore\UnitTests\bin\Debug\System.Web.Mvc.dll
+C:\Users\maxth\OneDrive\Programmation\Asp.Net\sportsstore\UnitTests\bin\Debug\System.Web.Razor.dll
+C:\Users\maxth\OneDrive\Programmation\Asp.Net\sportsstore\UnitTests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\maxth\OneDrive\Programmation\Asp.Net\sportsstore\UnitTests\bin\Debug\System.Web.WebPages.dll
+C:\Users\maxth\OneDrive\Programmation\Asp.Net\sportsstore\UnitTests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\maxth\OneDrive\Programmation\Asp.Net\sportsstore\UnitTests\bin\Debug\WebActivatorEx.dll
+C:\Users\maxth\OneDrive\Programmation\Asp.Net\sportsstore\UnitTests\bin\Debug\WebUI.dll
+C:\Users\maxth\OneDrive\Programmation\Asp.Net\sportsstore\UnitTests\bin\Debug\EntityFramework.dll
+C:\Users\maxth\OneDrive\Programmation\Asp.Net\sportsstore\UnitTests\bin\Debug\Domain.pdb
+C:\Users\maxth\OneDrive\Programmation\Asp.Net\sportsstore\UnitTests\bin\Debug\Domain.dll.config
+C:\Users\maxth\OneDrive\Programmation\Asp.Net\sportsstore\UnitTests\bin\Debug\WebUI.pdb
+C:\Users\maxth\OneDrive\Programmation\Asp.Net\sportsstore\UnitTests\bin\Debug\WebUI.dll.config
+C:\Users\maxth\OneDrive\Programmation\Asp.Net\sportsstore\UnitTests\bin\Debug\Moq.xml
+C:\Users\maxth\OneDrive\Programmation\Asp.Net\sportsstore\UnitTests\bin\Debug\Ninject.xml
+C:\Users\maxth\OneDrive\Programmation\Asp.Net\sportsstore\UnitTests\bin\Debug\Ninject.Web.Common.xml
+C:\Users\maxth\OneDrive\Programmation\Asp.Net\sportsstore\UnitTests\bin\Debug\Ninject.Web.Mvc.xml
+C:\Users\maxth\OneDrive\Programmation\Asp.Net\sportsstore\UnitTests\bin\Debug\System.Web.Helpers.xml
+C:\Users\maxth\OneDrive\Programmation\Asp.Net\sportsstore\UnitTests\bin\Debug\System.Web.Mvc.xml
+C:\Users\maxth\OneDrive\Programmation\Asp.Net\sportsstore\UnitTests\bin\Debug\System.Web.Razor.xml
+C:\Users\maxth\OneDrive\Programmation\Asp.Net\sportsstore\UnitTests\bin\Debug\System.Web.WebPages.xml
+C:\Users\maxth\OneDrive\Programmation\Asp.Net\sportsstore\UnitTests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\maxth\OneDrive\Programmation\Asp.Net\sportsstore\UnitTests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\maxth\OneDrive\Programmation\Asp.Net\sportsstore\UnitTests\bin\Debug\EntityFramework.xml
+C:\Users\maxth\OneDrive\Programmation\Asp.Net\sportsstore\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\maxth\OneDrive\Programmation\Asp.Net\sportsstore\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\maxth\OneDrive\Programmation\Asp.Net\sportsstore\UnitTests\obj\Debug\UnitTests.pdb

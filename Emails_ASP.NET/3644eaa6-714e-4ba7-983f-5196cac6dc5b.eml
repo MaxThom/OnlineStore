@@ -1,0 +1,15 @@
+X-Sender: sportsstore@example.com
+X-Receiver: orders@example.com
+MIME-Version: 1.0
+From: sportsstore@example.com
+To: orders@example.com
+Date: 11 Apr 2016 09:44:39 -0400
+Subject: New order submitted!
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+A new order has been submitted=0D=0A---=0D=0A Items:=0D=0A1 x Foo=
+tball (subtotal: 25,00 $Total order value: 25,00 $---=0D=0AShip t=
+o:=0D=0AMaxime Thomassin=0D=0A5835 rue boyer=0D=0A=0D=0AMontreal=0D=0A=
+Montreal=0D=0AQuebec=0D=0ACanada=0D=0AH2S 2H8=0D=0A---=0D=0AGift =
+wrap: No
