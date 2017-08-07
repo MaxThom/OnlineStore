@@ -41,8 +41,8 @@ namespace WebUI.Controllers
 
                 return RedirectToAction("Index");
             }
-            else
-                return View(product); 
+            
+            return View(product); 
         }
 
         public ViewResult Create()

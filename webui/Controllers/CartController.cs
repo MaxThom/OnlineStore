@@ -61,8 +61,8 @@ namespace WebUI.Controllers
                 cart.Clear();
                 return View("Completed");
             }
-            else
-                return View(shippingDetails);
+            
+            return View(shippingDetails);
         }
     }
 }

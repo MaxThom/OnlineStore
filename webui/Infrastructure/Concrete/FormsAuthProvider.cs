@@ -14,6 +14,7 @@ namespace WebUI.Infrastructure.Concrete
             bool result = FormsAuthentication.Authenticate(username, password);
             if (result)
                 FormsAuthentication.SetAuthCookie(username, false);
+
             return result;
         }
     }

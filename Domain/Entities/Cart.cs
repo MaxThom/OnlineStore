@@ -12,7 +12,7 @@ namespace Domain.Entities
 
         public void AddItem(Product product, int quantity)
         {
-            CartLine line = lineCollection.Where(p => p.Product.ProductID == product.ProductID).FirstOrDefault();
+            CartLine line = lineCollection.FirstOrDefault(p => p.Product.ProductID == product.ProductID);
 
             if (line == null)
                 lineCollection.Add(new CartLine { Product = product, Quantity = quantity });
@@ -36,8 +36,7 @@ namespace Domain.Entities
 
         }
 
-        public IEnumerable<CartLine> Lines { get { return lineCollection; } }
-
+        public IEnumerable<CartLine> Lines => lineCollection;
     }
 
     public class CartLine
